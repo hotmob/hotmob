@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, world! I’m a developer who loves turning coffee into code and ideas into reality.
+# 👋 Hello, World! 
+
+🌐 I’m a developer who loves turning coffee into code and ideas into reality.
 
 🚀 Developer | 🎮 Game Enthusiast | 🛠️ Open Source Contributor  
 
