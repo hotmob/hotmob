@@ -15,10 +15,43 @@ Here are some ideas to get you started:
 
 # 👋 Hello, World! 
 
-🌐 I’m a developer who loves turning coffee into code and ideas into reality.
+🚀 **Full-stack Developer** | 🧠 **Problem Solver** | 🌐 **Tech Explorer**  
 
-🚀 Developer | 🎮 Game Enthusiast | 🛠️ Open Source Contributor  
+💡 **"Code is not just what I do; it's how I think."**
 
-📟 Writing clean, scalable, and occasionally sarcastic code.  
+---
 
-⚡ Fun fact: My commit history has more ups and downs than Bitcoin prices.  
+### 🛠️ **Tech Arsenal**  
+- **Languages**: `TypeScript`, `JavaScript`, `Python`, `Rust` (learning in progress...)  
+- **Frameworks & Tools**: `Fastify`, `Node.js`, `Firebase`, `Docker`  
+- **Special Interests**: Web3 integrations, distributed systems, and crafting developer tools.  
+
+---
+
+### 🌍 **What I’m Working On**  
+- Building scalable backend systems that don’t cry in production.  
+- Crafting intuitive interfaces for Telegram bots and mini-apps.  
+- Experimenting with Web3 game publishing and next-gen integrations.  
+
+---
+
+### 🎯 **Achievements Unlocked**  
+- Built and deployed bots serving **tens of thousands of users**.  
+- Created developer SDKs to simplify third-party integrations.  
+- Contributed to open-source projects that made **debugging easier** for hundreds of developers.  
+
+---
+
+### 💬 **Let’s Connect**  
+- **Twitter**: [@hotmob](https://twitter.com/hotmob)  
+- **Email**: [hotmob@hotmail.com](mailto:hotmob@hotmail.com)  
+- Always open to chat about clean code, distributed systems, and the best coffee for late-night debugging.  
+
+---
+
+### ⚡ **Fun Facts**  
+- My `git commit` messages are 90% meaningful, 10% existential.  
+- I once optimized a query that now runs faster than my morning coffee brews.  
+- Coding since “console.log() is debugging” was revolutionary.  
+
+---
