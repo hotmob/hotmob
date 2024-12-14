@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hotmob/hotmob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hello, world! I’m a developer who loves turning coffee into code and ideas into reality.
+
+🚀 Developer | 🎮 Game Enthusiast | 🛠️ Open Source Contributor  
+
+📟 Writing clean, scalable, and occasionally sarcastic code.  
+
+⚡ Fun fact: My commit history has more ups and downs than Bitcoin prices.  
